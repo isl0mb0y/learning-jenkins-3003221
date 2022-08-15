@@ -1,4 +1,4 @@
-# Learning Jenkins
+# Learning Jenkins // by Islombek
 This is the repository for the LinkedIn Learning course Learning Jenkins. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Learning Jenkins][lil-thumbnail-url] 
